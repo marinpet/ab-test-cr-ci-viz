@@ -6,9 +6,12 @@
     "companyUrl": "https://github.com/marinpet",
     "packageUrl": "https://github.com/marinpet/ab-test-cr-ci-viz",
     "privacyPolicyUrl": "https://github.com/marinpet/ab-test-cr-ci-viz#privacy",
-    "license": "MIT"
+    "license": "MIT",
+    "devmode": true
   },
   "components": {
-    "viz": "index.js"
+    "id": "crciviz",
+    "resource": {
+      "js": "index.js"}
   }
 }
