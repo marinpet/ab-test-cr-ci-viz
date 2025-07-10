@@ -1,0 +1,14 @@
+{
+  "dataStudio": {
+    "name": "CR Bar with 95% CI",
+    "logoUrl": "https://raw.githubusercontent.com/marinpet/ab-test-cr-ci-viz/main/cr-ci-logo.png",
+    "company": "Marina Petkovic",
+    "companyUrl": "https://github.com/marinpet",
+    "packageUrl": "https://github.com/marinpet/ab-test-cr-ci-viz",
+    "privacyPolicyUrl": "https://github.com/marinpet/ab-test-cr-ci-viz#privacy",
+    "license": "MIT"
+  },
+  "components": {
+    "viz": "index.js"
+  }
+}
